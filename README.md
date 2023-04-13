@@ -1,2 +1,2 @@
 # Personal-Website
-# a mock personal website
+a mock personal website
